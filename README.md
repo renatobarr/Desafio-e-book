@@ -18,4 +18,4 @@ Esse repositório foi criado única e exckusivamente para a disseminação do me
 > Sempre deixe um título sujestivo por tópico
 
 ### Link para o E-Book
-> [link]()
+> [link](https://github.com/renatobarr/Desafio-e-book/blob/main/e-book_desafio_DIO.pdf)
