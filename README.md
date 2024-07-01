@@ -16,3 +16,6 @@ Esse repositório foi criado única e exckusivamente para a disseminação do me
 > Deixe o texto enxuto
 > Sempre traga exemplos de uso em contextos reais
 > Sempre deixe um título sujestivo por tópico
+
+### Link para o E-Book
+> [link]()
