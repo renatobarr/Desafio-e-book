@@ -8,7 +8,7 @@ Esse repositório foi criado única e exckusivamente para a disseminação do me
 *Gerando imagem para capa:* 
 > Portal roxo interdimencional
 
-*Gerando conteúdo base do e-book:
+*Gerando conteúdo base do e-book:*
 > *Faça um texto para ebook, com foco em Adobe After effects, explicando oque são keyframes e listando seus principais usos com exemplos
 
 > {REGRAS}
